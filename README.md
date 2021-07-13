@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliberatos278&count_bg=%2300C1FF&title_bg=%232D2D2D&icon=gnu.svg&icon_color=%23FFFFFF&title=kiss&edge_flat=false"/></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliberatos278&count_bg=%23252525&title_bg=%23DBD114&icon=amazon.svg&icon_color=%232D2D2D&title=Kisses&edge_flat=false"/>
