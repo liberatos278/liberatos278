@@ -9,14 +9,14 @@
 </div>
 -->
 <h2 style="text-align: center; user-select: none;">WELCOME TO MY PROFILE! 👋🏽</h2>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 70% text-align: center; user-select: none;">
+<div align="center" style="display: flex; justify-content: space-between;">
+    <div style="width: 55% text-align: center; user-select: none;">
         <a href="https://discord.com/users/471020198040829953">
-            <img draggable="false" width="70%" src="https://lanyard-profile-readme.vercel.app/api/471020198040829953"/>
+            <img draggable="false" width="55%" src="https://lanyard-profile-readme.vercel.app/api/471020198040829953"/>
         </a>
-        <img width="70%" draggable="false" style="margin-top: -0.5em; border-radius: 13px;" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
-        <img width="70%" draggable="false" style="border-radius: 13px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
-        <div width="70%" style="display: flex; justify-content: space-between; border-top: solid 3px white; padding-top: 5px; margin-top: 3px; border-radius: 2px; user-select: none;">
+        <img width="55%" draggable="false" style="margin-top: -0.5em; border-radius: 13px;" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
+        <img width="55%" draggable="false" style="border-radius: 13px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
+        <div width="55%" style="display: flex; justify-content: space-between; border-top: solid 3px white; padding-top: 5px; margin-top: 3px; border-radius: 2px; user-select: none;">
             <img draggable="false" width="50px" height="50px" src="https://i.imgur.com/7G6mFKP.png"/>
             <img draggable="false" width="50px" height="50px" src="https://i.imgur.com/oyqVuKu.png"/>
             <img draggable="false" width="50px" height="50px" src="https://i.imgur.com/tKwz5WP.png"/>
