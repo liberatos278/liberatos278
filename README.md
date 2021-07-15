@@ -10,7 +10,7 @@
 -->
 <h2 style="text-align: center; user-select: none;">WELCOME TO MY PROFILE! 👋🏽</h2>
 <div style="display: flex; justify-content: space-between;">
-    <div style="width: 100% text-align: center; user-select: none;">
+    <div style="width: 70% text-align: center; user-select: none;">
         <a href="https://discord.com/users/471020198040829953">
             <img draggable="false" width="70%" src="https://lanyard-profile-readme.vercel.app/api/471020198040829953"/>
         </a>
