@@ -34,5 +34,14 @@
 <a href="https://discord.com/users/471020198040829953">
     <img align="right" width="50%" src="https://lanyard-profile-readme.vercel.app/api/471020198040829953"/>
 </a>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
+<div align="right" width="50%">
+    <img width="50px" height="50px" src="https://i.imgur.com/7G6mFKP.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/oyqVuKu.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/tKwz5WP.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/IBxdTqk.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/eN6l7pb.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/lzj8miI.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/0StN0Pz.png"/>
+</div>
