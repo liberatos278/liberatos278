@@ -37,7 +37,8 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
 <div align="left" width="50%" height="300px">
-    asdasdddddddddddddddddddddddddd<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    • My name is Liberatos. I am currently employed at @sideway as a Junior Developer. My salary is -0.01 $ / h. I have very good English and programming experience. I think I am an ideal choice for a beautiful and clear code.
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     <img width="50px" height="50px" src="https://i.imgur.com/7G6mFKP.png"/>
     <img width="50px" height="50px" src="https://i.imgur.com/oyqVuKu.png"/>
     <img width="50px" height="50px" src="https://i.imgur.com/tKwz5WP.png"/>
