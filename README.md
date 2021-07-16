@@ -41,8 +41,9 @@
     <p>I used to program mainly non-functioning discord shoes. I also tried to program the world-famous game of five-in-a-row, which also didn't work and doesn't work now, I'm not in the mood to fix my code anymore. Even so, I will give you an example of my work here. Yeah, and I like airplanes, so I won't be a developer</p><br/><br/><br/>
     <h3>https://www.liberatos.xyz/piskvorky</h3>
     <i>(I wonder who will figure out why they don't work)</i>
-    <br/><br/><br/><br/><br/><br/><br/><br/>
-    <img width="40%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliberatos278&count_bg=%2316A4DB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true"/>
+    <br/><br/><br/><br/><br/><br/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliberatos278&count_bg=%2316A4DB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true"/>
+    <br/><br/>
     <img width="50px" height="50px" src="https://i.imgur.com/7G6mFKP.png"/>
     <img width="50px" height="50px" src="https://i.imgur.com/oyqVuKu.png"/>
     <img width="50px" height="50px" src="https://i.imgur.com/tKwz5WP.png"/>
