@@ -29,4 +29,9 @@
 </div>
 -->
 
-<h2 align="center">WELCOME TO MY PROFILE! 👋🏽</h2>
+<h1 align="center">WELCOME TO MY PROFILE! 👋🏽</h1>
+
+<a align="left" href="https://discord.com/users/471020198040829953">
+    <img draggable="false" width="50%" src="https://lanyard-profile-readme.vercel.app/api/471020198040829953"/>
+</a>
+<img align="right" width="50%" draggable="false" style="margin-top: -0.5em; border-radius: 13px;" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
