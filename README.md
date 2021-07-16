@@ -36,12 +36,12 @@
 </a>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
-<div align="right" width="50%" height="300px">
-    <img align="right" width="50px" height="50px" src="https://i.imgur.com/7G6mFKP.png"/>
-    <img align="right" width="50px" height="50px" src="https://i.imgur.com/oyqVuKu.png"/>
-    <img align="right" width="50px" height="50px" src="https://i.imgur.com/tKwz5WP.png"/>
-    <img align="right" width="50px" height="50px" src="https://i.imgur.com/IBxdTqk.png"/>
-    <img align="right" width="50px" height="50px" src="https://i.imgur.com/eN6l7pb.png"/>
-    <img align="right" width="50px" height="50px" src="https://i.imgur.com/lzj8miI.png"/>
-    <img align="right" width="50px" height="50px" src="https://i.imgur.com/0StN0Pz.png"/>
+<div align="left" width="50%" height="300px">
+    <img width="50px" height="50px" src="https://i.imgur.com/7G6mFKP.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/oyqVuKu.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/tKwz5WP.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/IBxdTqk.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/eN6l7pb.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/lzj8miI.png"/>
+    <img width="50px" height="50px" src="https://i.imgur.com/0StN0Pz.png"/>
 </div>
