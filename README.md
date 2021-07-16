@@ -31,8 +31,9 @@
 
 <h1 align="center">WELCOME TO MY PROFILE! 👋🏽</h1>
 
-<a align="left" href="https://discord.com/users/471020198040829953">
+<a align="right" href="https://discord.com/users/471020198040829953">
     <img width="50%" src="https://lanyard-profile-readme.vercel.app/api/471020198040829953"/>
 </a>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
