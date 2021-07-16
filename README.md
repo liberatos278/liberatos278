@@ -38,8 +38,9 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
 <div align="left" width="50%" height="300px">
     <h4> My name is Liberatos. I am currently employed at @sideway as a Junior Developer. My salary is -0.01 $ / h. I have very good English and programming experience. I think I am an ideal choice for a beautiful and clear code. </h4>
-    <p>I used to program mainly non-functioning discord shoes. I also tried to program the world-famous game of five-in-a-row, which also didn't work and doesn't work now, I'm not in the mood to fix my code anymore. Even so, I will give you an example of my work here.</p>
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    <p>I used to program mainly non-functioning discord shoes. I also tried to program the world-famous game of five-in-a-row, which also didn't work and doesn't work now, I'm not in the mood to fix my code anymore. Even so, I will give you an example of my work here. Yeah, and I like airplanes, so I won't be a developer</p><br/><br/><br/><br/><br/><br/>
+    <h3>https://www.liberatos.xyz/piskvorky</h3>
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     <img width="50px" height="50px" src="https://i.imgur.com/7G6mFKP.png"/>
     <img width="50px" height="50px" src="https://i.imgur.com/oyqVuKu.png"/>
     <img width="50px" height="50px" src="https://i.imgur.com/tKwz5WP.png"/>
