@@ -2,9 +2,9 @@
 
 <a href="https://discord.com/users/471020198040829953">
     <img align="right" width="50%" src="https://lanyard-profile-readme.vercel.app/api/471020198040829953"/>
-</a><br/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/><br/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react"><br/>
+</a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=liberatos278&theme=react&show_icons=true"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatos278&layout=compact&theme=react">
 <div align="left" width="50%" height="300px">
     <h4> My name is Liberatos. I am currently employed at @Sideway-Development as a Junior Developer. My salary is -0.01 $ / h. I have very good English and programming experience. I think I am an ideal choice for a beautiful and clear code. </h4>
     <p>I used to program mainly non-functioning discord shoes. I also tried to program the world-famous game of five-in-a-row, which also didn't work and doesn't work now, I'm not in the mood to fix my code anymore. Even so, I will give you an example of my work here. Yeah, and I like airplanes, so I won't be a developer.</p><br/><br/><br/>
